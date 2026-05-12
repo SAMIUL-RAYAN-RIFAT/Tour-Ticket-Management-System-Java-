@@ -1,0 +1,4 @@
+jodi kono class e edit korar por change/problem hoy taile
+                      1.(.class)file delete korte pari
+                      2.frame call(ei class er main mathod/constractor e/previous slide e dite pari)
+                      3.othba slide minimise kore abr open korbi window te
